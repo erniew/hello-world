@@ -5,3 +5,7 @@ procedure
     a= b*c
 end
 array = [x,y,z]
+require fs;
+require http;
+time = time + 1;
+end
