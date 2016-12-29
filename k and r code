@@ -1,0 +1,7 @@
+This is where to put the code written in c.
+main()
+{
+int i;
+i+=count;
+
+}
